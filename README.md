@@ -1,8 +1,9 @@
 # Adversarial Attack of Reinforcement Learning Policies
 
-* To see the results, check the [Results](#results) section.
-* To learn how to run the code, check [this](#how-to-run) section.
-* To learn more about the _Pong_ environment, check the [Environment](#environment) section.
+* To see the **results**, check the [Results](#results) section.
+* To learn **how to run the code**, check [this](#how-to-run) section.
+* To learn more about the **_Pong_ environment**, check the [Environment](#environment) section.
+* For a more **detailed report**, please check [here](https://github.com/mithun-bharadwaj/Attacking_RL_Policies/blob/master/REPORT_ATTACK_ON_RL_POLICIES.pdf).
 
 ## Deep Q-Learning
 * **Action value function (Q-value)** yields the discounted return if the agent starts in state **_s_**, takes an action **_a_**, and follows the policy **_pi_**.
